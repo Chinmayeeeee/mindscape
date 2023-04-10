@@ -6,6 +6,8 @@
                 "Hi",
                 "Hello",
                 "Hey",
+                "Greetings",
+                "Hi",
                 "How are you?",
                 "Good morning",
                 "Good afternoon",
@@ -25,8 +27,9 @@
             "patterns": [
                 "Thank you",
                 "Thanks",
-                "Goodbye",
+                "goodbye",
                 "Bye",
+                "Bye Bye",
                 "See you later",
                 "Talk to you later"
             ],
@@ -650,19 +653,6 @@
             ]
         },
         {
-            "tag": "goodbye",
-            "patterns": [
-                "Bye",
-                "See you later",
-                "Goodbye"
-            ],
-            "responses": [
-                "Goodbye, take care!",
-                "See you later, have a great day!",
-                "Take care and stay well!"
-            ]
-        },
-        {
             "tag": "thanks",
             "patterns": [
                 "Thank you",
@@ -712,19 +702,6 @@
                 "It's natural to have self doubt, but it's important not to let it hold you back. Remember your strengths and accomplishments, and focus on what you can do. Let's work together to build your confidence and overcome your doubts. What are some things you do well?",
                 "Your doubts do not define you. They are just thoughts, and you have the power to change them. Try to reframe your negative thoughts into positive ones, and challenge your assumptions. What evidence do you have that supports your doubts?",
                 "It's okay to ask for help when you need it. Don't be afraid to reach out to others for support and guidance. We all need help sometimes."
-            ]
-        },
-        {
-            "tag": "thanks",
-            "patterns": [
-                "Thanks",
-                "Thank you",
-                "Appreciate it",
-                "Thanks a lot"
-            ],
-            "responses": [
-                "You're welcome!",
-                "No problem, happy to help!"
             ]
         },
         {
